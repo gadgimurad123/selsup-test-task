@@ -1,0 +1,29 @@
+{
+  "description": {
+    "participantInn": "1234567890"
+  },
+  "doc_id": "doc123",
+  "doc_status": "status",
+  "doc_type": "LP_INTRODUCE_GOODS",
+  "importRequest": true,
+  "owner_inn": "0987654321",
+  "participant_inn": "1234567890",
+  "producer_inn": "0987654321",
+  "production_date": "2020-01-23",
+  "production_type": "type",
+  "products": [
+    {
+      "certificate_document": "cert123",
+      "certificate_document_date": "2020-01-23",
+      "certificate_document_number": "cert123",
+      "owner_inn": "0987654321",
+      "producer_inn": "0987654321",
+      "production_date": "2020-01-23",
+      "tnved_code": "code123",
+      "uit_code": "code123",
+      "uitu_code": "code123"
+    }
+  ],
+  "reg_date": "2020-01-23",
+  "reg_number": "num123"
+}
